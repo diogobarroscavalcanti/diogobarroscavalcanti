@@ -47,7 +47,13 @@ Nosso diferencial é o **Maximus**, um assistente de IA próprio que ajuda os us
 
 ---
 
-### 💼 O que estou construindo na G.Lucena
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diogobarroscavalcanti/diogobarroscavalcanti/main/glucena-logo.png" alt="G.Lucena Investimentos & Participações" width="320">
+</p>
+
+<p align="center">
+  <em>O que estou construindo no dia a dia</em>
+</p>
 
 Algumas das soluções que já entreguei ou estou desenvolvendo no setor Comercial:
 
