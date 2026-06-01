@@ -48,7 +48,7 @@ Nosso diferencial é o **Maximus**, um assistente de IA próprio que ajuda os us
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diogobarroscavalcanti/diogobarroscavalcanti/main/glucena-logo.png" alt="G.Lucena Investimentos & Participações" width="320">
+  <img src="https://raw.githubusercontent.com/diogobarroscavalcanti/diogobarroscavalcanti/main/glucena-logo.png" alt="G.Lucena Investimentos & Participações" width="500">
 </p>
 
 <p align="center">
