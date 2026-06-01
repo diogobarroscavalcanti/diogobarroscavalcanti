@@ -20,7 +20,15 @@
 
 ---
 
-### 🌎 Infomundi — o projeto que move tudo
+<p align="center">
+  <a href="https://infomundi.net">
+    <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/refs/heads/main/logo-wordmark-on-white.svg" alt="Infomundi" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <em>O projeto que move tudo</em>
+</p>
 
 A **[Infomundi](https://infomundi.net)** é uma plataforma de agregação e análise de notícias internacionais que já reúne:
 
