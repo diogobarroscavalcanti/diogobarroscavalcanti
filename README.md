@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Construindo+o+futuro+com+c%C3%B3digo+e+caf%C3%A9+%E2%98%95;Co-founder+%40+Infomundi+%F0%9F%8C%8E;Automa%C3%A7%C3%A3o+corporativa+com+IA+%F0%9F%A4%96;Python+%E2%9D%A4%EF%B8%8F+empreendedorismo" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/diogobarroscavalcanti/diogobarroscavalcanti/main/banner.gif" alt="Olá! Meu nome é Diogo Cavalcanti" />
 </p>
 
 ---
