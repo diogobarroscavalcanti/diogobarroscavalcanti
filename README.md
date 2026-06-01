@@ -16,7 +16,19 @@
 
 <p>Meu perfil combina domínio avançado em IA e automação de processos com raciocínio lógico e analítico e boa leitura do ambiente corporativo. Esse repertório é reforçado por múltiplas certificações em <strong>Excel avançado, Power BI, análise e administração de bancos de dados, dashboards, metodologias ágeis e comunicação empresarial</strong>, o que me permite estruturar dados, otimizar fluxos e atuar com consistência em diferentes frentes.</p>
 
-<p>📬 <strong>Contato:</strong> diogobarros.cavalcanti@gmail.com</p>
+### 🌐 Vamos conversar?
+
+<p>
+  <a href="https://infomundi.net/p/DiogoCavalcanti">
+    <img src="https://img.shields.io/badge/Infomundi-4A90E2?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/diogo-cavalcanti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:diogobarros.cavalcanti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -64,20 +76,6 @@ Algumas das soluções que já entreguei ou estou desenvolvendo no setor Comerci
 - 📈 **Dashboards e análises** com Power BI e Excel avançado para insights em tempo real
 
 ---
-
-### 🌐 Vamos conversar?
-
-<p>
-  <a href="https://infomundi.net">
-    <img src="https://img.shields.io/badge/Infomundi-4A90E2?style=for-the-badge&logo=globe&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/diogo-cavalcanti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:diogobarros.cavalcanti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <em>"Não tem como construir algo grande sem dar um passo de cada vez."</em>
