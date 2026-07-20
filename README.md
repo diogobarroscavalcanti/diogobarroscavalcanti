@@ -10,7 +10,7 @@
 
 <p>Atualmente, atuo como <strong>estagiário no Setor Comercial da G.Lucena Investimentos & Participações</strong>, onde concentro grande parte do meu trabalho na aplicação de inteligência artificial às rotinas da área. Identifico gargalos, desenho fluxos automatizados e desenvolvo soluções que reduzem retrabalho, aceleram análises e qualificam a tomada de decisão com precisão técnica, convertendo processos manuais em rotinas inteligentes e transformando dados dispersos em informação útil para o negócio.</p>
 
-<p>Paralelamente, exerço minha visão empreendedora através da <strong><a href="https://infomundi.net">Infomundi</a></strong>, atualmente em pré-incubação no Porto Digital, onde aplico na prática os fundamentos de administração e empreendedorismo da graduação, somados ao conhecimento técnico em IA e automação.</p>
+<p>Paralelamente, exerço minha visão empreendedora através da <strong><a href="https://infomundi.net">Mundi</a></strong>, atualmente em pré-incubação no Porto Digital, onde aplico na prática os fundamentos de administração e empreendedorismo da graduação, somados ao conhecimento técnico em IA e automação.</p>
 
 <p>Tenho experiência prévia na equipe de <strong>Compliance do Sistema FIEPE</strong>, vivência que me proporcionou uma noção sólida do ambiente corporativo: processos formais, hierarquias, fluxos de decisão e a rotina de uma grande organização.</p>
 
@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://infomundi.net/p/DiogoCavalcanti">
-    <img src="https://img.shields.io/badge/Infomundi-4A90E2?style=for-the-badge&logo=globe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mundi-4A90E2?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/diogo-cavalcanti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://infomundi.net">
-    <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/refs/heads/main/logo-wordmark-on-white.svg" alt="Infomundi" width="500">
+    <img src="https://raw.githubusercontent.com/Infomundi-Project/.github/refs/heads/main/logo-wordmark-on-white.svg" alt="Mundi" width="500">
   </a>
 </p>
 
@@ -42,7 +42,7 @@
   <em>O projeto que move tudo</em>
 </p>
 
-A **[Infomundi](https://infomundi.net)** é uma plataforma de agregação e análise de notícias internacionais que já reúne:
+A **[Mundi](https://infomundi.net)** é uma plataforma de agregação e análise de notícias internacionais que já reúne:
 
 <p>
   <img src="https://img.shields.io/badge/205-pa%C3%ADses%20cobertos-4A90E2?style=for-the-badge" />
